@@ -1,0 +1,296 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/BLOCK.hh
+Wektor3D.hh
+../include/Wektor3D.hh
+Macierz3x3.hh
+../include/Macierz3x3.hh
+fstream
+-
+vector
+-
+memory
+-
+StageObj.hh
+../include/StageObj.hh
+
+../include/CUBOID.hh
+BLOCK.hh
+../include/BLOCK.hh
+
+../include/DRONE.hh
+CUBOID.hh
+../include/CUBOID.hh
+PRISM.hh
+../include/PRISM.hh
+lacze_do_gnuplota.hh
+../include/lacze_do_gnuplota.hh
+StageObj.hh
+../include/StageObj.hh
+unistd.h
+-
+
+../include/HILL.hh
+BLOCK.hh
+../include/BLOCK.hh
+
+../include/Macierz.hh
+iostream
+-
+Wektor.hh
+../include/Wektor.hh
+cmath
+-
+
+../include/Macierz3x3.hh
+iostream
+-
+Macierz.hh
+../include/Macierz.hh
+
+../include/PLANE.hh
+Wektor3D.hh
+../include/Wektor3D.hh
+Macierz3x3.hh
+../include/Macierz3x3.hh
+fstream
+-
+vector
+-
+
+../include/PLATEAU.hh
+BLOCK.hh
+../include/BLOCK.hh
+
+../include/PRISM.hh
+BLOCK.hh
+../include/BLOCK.hh
+
+../include/RIDGE.hh
+BLOCK.hh
+../include/BLOCK.hh
+
+../include/STAGE.hh
+iostream
+-
+iomanip
+-
+memory
+-
+fstream
+-
+list
+-
+PLATEAU.hh
+../include/PLATEAU.hh
+RIDGE.hh
+../include/RIDGE.hh
+HILL.hh
+../include/HILL.hh
+PRISM.hh
+../include/PRISM.hh
+lacze_do_gnuplota.hh
+../include/lacze_do_gnuplota.hh
+DRONE.hh
+../include/DRONE.hh
+PLANE.hh
+../include/PLANE.hh
+StageObj.hh
+../include/StageObj.hh
+
+../include/StageObj.hh
+string
+-
+memory
+-
+
+../include/Wektor.hh
+iostream
+-
+cmath
+-
+
+../include/Wektor3D.hh
+Wektor.hh
+../include/Wektor.hh
+iomanip
+-
+
+../include/example.h
+../tests/doctest/doctest.h
+../tests/doctest/doctest.h
+
+../include/lacze_do_gnuplota.hh
+string
+-
+list
+-
+vector
+-
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/BLOCK.cpp
+BLOCK.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/BLOCK.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/CUBOID.cpp
+CUBOID.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/CUBOID.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/DRONE.cpp
+DRONE.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/DRONE.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/HILL.cpp
+HILL.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/HILL.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/Macierz3x3.cpp
+Macierz3x3.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/Macierz3x3.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PLANE.cpp
+PLANE.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PLANE.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PLATEAU.cpp
+PLATEAU.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PLATEAU.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PRISM.cpp
+PRISM.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PRISM.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/RIDGE.cpp
+RIDGE.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/RIDGE.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/STAGE.cpp
+STAGE.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/STAGE.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/Wektor3D.cpp
+Wektor3D.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/Wektor3D.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/example.cpp
+example.h
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/example.h
+../tests/doctest/doctest.h
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/tests/doctest/doctest.h
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/lacze_do_gnuplota.cpp
+cstdio
+-
+cstring
+-
+cmath
+-
+cstdlib
+-
+iostream
+-
+sys/stat.h
+-
+unistd.h
+-
+fcntl.h
+-
+sstream
+-
+fstream
+-
+limits
+-
+lacze_do_gnuplota.hh
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/lacze_do_gnuplota.hh
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/tests/doctest/doctest.h
+signal.h
+-
+iosfwd
+-
+cstddef
+-
+ostream
+-
+ciso646
+-
+type_traits
+-
+doctest_fwd.h
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/tests/doctest/doctest_fwd.h
+ctime
+-
+cmath
+-
+climits
+-
+math.h
+-
+new
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+limits
+-
+utility
+-
+fstream
+-
+sstream
+-
+iostream
+-
+algorithm
+-
+iomanip
+-
+vector
+-
+atomic
+-
+mutex
+-
+set
+-
+map
+-
+exception
+-
+stdexcept
+-
+csignal
+-
+cfloat
+-
+cctype
+-
+cstdint
+-
+sys/types.h
+-
+unistd.h
+-
+sys/sysctl.h
+-
+AfxWin.h
+-
+windows.h
+-
+io.h
+-
+sys/time.h
+-
+unistd.h
+-
+

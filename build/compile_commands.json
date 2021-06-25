@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/app/main.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/app/main.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/example.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/example.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/example.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/lacze_do_gnuplota.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/BLOCK.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/BLOCK.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/BLOCK.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/DRONE.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/DRONE.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/DRONE.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/PRISM.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PRISM.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PRISM.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Macierz3x3.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/Macierz3x3.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/Macierz3x3.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/PLANE.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PLANE.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PLANE.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/CUBOID.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/CUBOID.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/CUBOID.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/STAGE.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/STAGE.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/STAGE.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Wektor3D.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/Wektor3D.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/Wektor3D.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/HILL.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/HILL.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/HILL.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/RIDGE.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/RIDGE.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/RIDGE.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/PLATEAU.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PLATEAU.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/src/PLATEAU.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build/tests",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/tests/main.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/tests/main.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build/tests",
+  "command": "/usr/bin/c++   -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/include\" -I\"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/dummy.cpp.o -c \"/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/tests/dummy.cpp\"",
+  "file": "/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/tests/dummy.cpp"
+}
+]

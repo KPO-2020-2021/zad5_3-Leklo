@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leklo/ProgObiekt/Wersja Repo Janiec/faza3 janiec/build/CMakeFiles/_CMakeLTOTest-CXX/src/foo.cpp
+
